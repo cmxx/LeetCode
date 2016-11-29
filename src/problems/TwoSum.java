@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class TwoSum {
 	// #1 Two Sum
-	// Finished
+	// Status: Passed
 
 	public int[] bruteForce(int[] nums, int target) {
 		for (int i = 0; i < nums.length; i++)
