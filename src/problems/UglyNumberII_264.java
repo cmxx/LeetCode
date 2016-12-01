@@ -1,6 +1,6 @@
 package problems;
 
-public class UglyNumberII {
+public class UglyNumberII_264 {
 	// #264
 	// 1-5 : 1 2 3 4 5
 	// 6-10 : 6 8 9 10 12
@@ -24,7 +24,7 @@ public class UglyNumberII {
 	}
 
 	public static void main(String[] args) {
-		UglyNumberII p = new UglyNumberII();
+		UglyNumberII_264 p = new UglyNumberII_264();
 		int k = 11;
 		System.out.println(p.nthUglyNumber(k));
 	}

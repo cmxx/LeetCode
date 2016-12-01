@@ -1,6 +1,6 @@
 package problems;
 
-import supports.ListNode;
+import supporting.ListNode;
 
 public class RemoveDuplicatesFromList_83 {
 	// # 83 Remove duplicates From Sorted Linked List
