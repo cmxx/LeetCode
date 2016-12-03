@@ -1,6 +1,12 @@
 package supporting;
 
 public class Test1 {
+	
+	private int k;
+	
+	private Test1(){
+		
+	}
 
     private void printSingleInt() {
         int k = 123456789;
@@ -26,8 +32,8 @@ public class Test1 {
         // TODO Auto-generated method stub
         Test1 t = new Test1();
 
-        t.plusplus();
-        
+        //t.plusplus();
+        System.out.println(t.k);
 
     }
 }
