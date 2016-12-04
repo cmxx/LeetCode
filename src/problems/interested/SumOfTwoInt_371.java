@@ -1,4 +1,4 @@
-package problems;
+package problems.interested;
 
 public class SumOfTwoInt_371 {
     
